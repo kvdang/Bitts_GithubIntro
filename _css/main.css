@@ -8,8 +8,9 @@ html {
   -webkit-text-size-adjust: 100%;
 }
 html, body  {
+	background-color: #008000;
 	margin: 0;
-}
+}00
 /* Correct `block` display not defined in IE 8/9.*/
 article,aside,details,figcaption,figure,footer,header,main,nav,section,summary {
   display: block;
